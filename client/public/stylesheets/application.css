@@ -1,0 +1,33 @@
+#players li{
+    cursor:pointer;
+}
+#triqui table, th, td{
+    border: 1px solid black;
+}
+#triqui th, td{
+    cursor:pointer;
+    border: 1px solid black;
+    width:  25px;
+    height: 25px;
+}
+#notfication{
+    cursor:pointer;
+}
+#messages{
+    left:100px;
+    top:100px;
+    width:600px;
+    height:100px;
+    background-color:ffffff;
+    overflow:auto;
+}
+
+#footer{
+    margin-top:20px;;
+    position: relative;
+    overflow:auto;
+}
+
+#chat{
+    margin-top:100px;;
+}

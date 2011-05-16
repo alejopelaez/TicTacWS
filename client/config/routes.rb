@@ -1,4 +1,10 @@
 Client::Application.routes.draw do
+  get "games/play"
+
+  get "games/check_turn"
+
+  get "games/check_win"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
